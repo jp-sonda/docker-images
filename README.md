@@ -1,5 +1,12 @@
 # Docker Images from Oracle
 
+### Ver OracleWebLogic/samples/12213-domain-home-in-image-wdt
+
+### Ver OracleWebLogic/dockerfiles/12.2.1.3
+
+
+---
+
 This repository contains [Dockerfiles](https://docs.docker.com/engine/reference/builder/)
 and samples to build [Docker](https://www.docker.com/what-docker) images for
 Oracle commercial products and [Oracle sponsored open source projects](https://oss.oracle.com).
